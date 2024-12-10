@@ -2,8 +2,14 @@
 
 <h1 align="center">Hola, soy <a href="https://portafoliodsicajadev.netlify.app/">Daniel Sicaja</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/oDGmHBT.png">
+<img src="https://i.imgur.com/zKh0Ib5.png">
 
+<a href="https://github.com/DanielSicaja2000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Cuenta%201-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Cuenta 1">
+</a>
+<a href="https://github.com/DanielSicaja08" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Cuenta%202-yellowgreen?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Cuenta 2">
+</a>
 
 
 ### 👨‍💻 About me.
